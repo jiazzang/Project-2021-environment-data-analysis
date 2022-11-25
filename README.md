@@ -51,7 +51,7 @@
 
 ## 4. 자료 분석 과정
 
-#### [데이터 전처리 및 분석 코드](github.com/jiazzang/Project_2021_co2_data_analysis/blob/main/데이터_전처리_및_분석.R)
+#### [데이터 전처리 및 분석 코드](https://github.com/jiazzang/Project_2021_co2_data_analysis/blob/d24985d08083a35a7c6dab238d0bb22c06df9752/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%B6%84%EC%84%9D.R)
 * 모형의 적합성 검증
 * 차분, 로그변환
 * 다중회귀모형 생성
